@@ -1,0 +1,5 @@
+log_level: debug
+
+db_url: postgres://root:root@localhost:5432/wills-svc?sslmode=disable
+
+listener_addr: :8000
